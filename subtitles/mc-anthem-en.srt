@@ -1,0 +1,39 @@
+1
+00:00:10,000 --> 00:00:14,000
+Forever, in our land,
+
+2
+00:00:14,000 --> 00:00:19,000
+One flag has flown in the wind
+
+3
+00:00:19,000 --> 00:00:24,000
+Forever, the colors red and white
+
+4
+00:00:24,000 --> 00:00:29,000
+Have symbolized our liberty
+
+5
+00:00:29,000 --> 00:00:33,500
+Great and small have always respected them.
+
+6
+00:00:53,000 --> 00:00:57,500
+Forever, in our land,
+
+7
+00:00:57,999 --> 00:01:02,000
+One flag has flown in the wind
+
+8
+00:01:02,500 --> 00:01:07,000
+Forever, the colors red and white
+
+9
+00:01:07,000 --> 00:01:12,000
+Have symbolized our liberty
+
+10
+00:01:12,000 --> 00:01:17,000
+Great and small have always respected them.

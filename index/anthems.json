@@ -1,0 +1,1015 @@
+{
+  "ae": {
+    "country": "United Arab Emirates",
+    "anthem": "Ishy Bilady",
+    "duration": 48,
+    "locale": "عيشي بلادي"
+  },
+  "af": {
+    "country": "Afghanistan",
+    "anthem": "Dā Də Bātorāno Kor",
+    "duration": 70,
+    "locale": "دا د باتورانو کور"
+  },
+  "ag": {
+    "country": "Antigua and Barbuda",
+    "anthem": "Fair Antigua, We Salute Thee",
+    "duration": 61
+  },
+  "al": {
+    "country": "Albania",
+    "anthem": "Hymni i Flamurit",
+    "duration": 66,
+    "locale": "Himni i Flamurit"
+  },
+  "am": {
+    "country": "Armenia",
+    "anthem": "Mer Hayrenik",
+    "duration": 28,
+    "locale": "Մեր Հայրենիք"
+  },
+  "ao": {
+    "country": "Angola",
+    "anthem": "Angola Avante",
+    "duration": 82
+  },
+  "ar": {
+    "country": "Argentina",
+    "anthem": "Himno Nacional Argentino",
+    "duration": 213
+  },
+  "at": {
+    "country": "Austria",
+    "anthem": "Die Bundeshymne",
+    "duration": 89,
+    "locale": "Bundeshymne der Republik Österreich"
+  },
+  "au": {
+    "country": "Australia",
+    "anthem": "Advance Australia Fair",
+    "duration": 54
+  },
+  "aw": {
+    "country": "Aruba",
+    "anthem": "Aruba Dushi Tera",
+    "duration": 127
+  },
+  "az": {
+    "country": "Azerbaijan",
+    "anthem": "Azərbaycan Marşı",
+    "duration": 132,
+    "locale": "Azərbaycan Respublikasının Dövlət himni"
+  },
+  "bb": {
+    "country": "Barbados",
+    "anthem": "In Plenty and In Time of Need",
+    "duration": 79
+  },
+  "bd": {
+    "country": "Bangladesh",
+    "anthem": "Amar Sonar Bangla",
+    "duration": 135,
+    "locale": "আমার সোনার বাংলা"
+  },
+  "be": {
+    "country": "Belgium",
+    "anthem": "La Brabançonne",
+    "duration": 63
+  },
+  "bf": {
+    "country": "Burkina Faso",
+    "anthem": "Ditanyè",
+    "duration": 107,
+    "locale": "Le Ditanye"
+  },
+  "bg": {
+    "country": "Bulgaria",
+    "anthem": "Mila Rodino",
+    "duration": 121,
+    "locale": "Мила Родино"
+  },
+  "bh": {
+    "country": "Bahrain",
+    "anthem": "Bahrainona",
+    "duration": 49,
+    "locale": "بحريننا"
+  },
+  "bj": {
+    "country": "Benin",
+    "anthem": "L'Aube nouvelle",
+    "duration": 68
+  },
+  "bn": {
+    "country": "Brunei Darussalam",
+    "anthem": "Allah Peliharakan Sultan",
+    "duration": 65,
+    "locale": "ﷲ ڤليهاراکن سلطان"
+  },
+  "bo": {
+    "country": "Bolivia, Plurinational State of",
+    "anthem": "Himno Nacional de Bolivia",
+    "duration": 101,
+    "locale": "Canción Patriótica"
+  },
+  "br": {
+    "country": "Brazil",
+    "anthem": "Hino Nacional Brasileiro",
+    "duration": 201
+  },
+  "bs": {
+    "country": "Bahamas",
+    "anthem": "March On Bahamaland",
+    "duration": 75
+  },
+  "bw": {
+    "country": "Botswana",
+    "anthem": "Fatshe leno la rona",
+    "duration": 57
+  },
+  "by": {
+    "country": "Belarus",
+    "anthem": "My Belarusy",
+    "duration": 69,
+    "locale": "Дзяржаўны гімн Рэспублікі Беларусь"
+  },
+  "bz": {
+    "country": "Belize",
+    "anthem": "Land of the Free",
+    "duration": 162
+  },
+  "ca": {
+    "country": "Canada",
+    "anthem": "O Canada",
+    "duration": 73
+  },
+  "cg": {
+    "country": "Congo",
+    "anthem": "La Congolaise",
+    "duration": 75
+  },
+  "ch": {
+    "country": "Switzerland",
+    "anthem": "Swiss Psalm",
+    "duration": 71,
+    "locale": "Schweizerpsalm"
+  },
+  "ck": {
+    "country": "Cook Islands",
+    "anthem": "Te Atua Mou E",
+    "duration": 65,
+    "locale": "Te Atua mou ē"
+  },
+  "cl": {
+    "country": "Chile",
+    "anthem": "Himno Nacional de Chile",
+    "duration": 121
+  },
+  "cn": {
+    "country": "China",
+    "anthem": "March of the Volunteers",
+    "duration": 44,
+    "locale": "义勇军进行曲"
+  },
+  "co": {
+    "country": "Colombia",
+    "anthem": "Himno Nacional de la República de Colombia",
+    "duration": 161
+  },
+  "cr": {
+    "country": "Costa Rica",
+    "anthem": "Himno Nacional de Costa Rica",
+    "duration": 110
+  },
+  "cu": {
+    "country": "Cuba",
+    "anthem": "La Bayamesa",
+    "duration": 53
+  },
+  "cv": {
+    "country": "Cabo Verde",
+    "anthem": "Cântico da Liberdade",
+    "duration": 71
+  },
+  "cz": {
+    "country": "Czechia",
+    "anthem": "Kde domov můj",
+    "duration": 72
+  },
+  "de": {
+    "country": "Germany",
+    "anthem": "Deutschlandlied",
+    "duration": 74
+  },
+  "dj": {
+    "country": "Djibouti",
+    "anthem": "Djibouti",
+    "duration": 48,
+    "locale": "Jabuuti"
+  },
+  "dk": {
+    "country": "Denmark",
+    "anthem": "Der er et yndigt land",
+    "duration": 79
+  },
+  "dm": {
+    "country": "Dominica",
+    "anthem": "Isle of Beauty",
+    "duration": 49
+  },
+  "dz": {
+    "country": "Algeria",
+    "anthem": "Kassaman",
+    "duration": 73,
+    "locale": "قَسَمًا"
+  },
+  "ec": {
+    "country": "Ecuador",
+    "anthem": "Salve, Oh Patria",
+    "duration": 199
+  },
+  "ee": {
+    "country": "Estonia",
+    "anthem": "Mu isamaa, mu õnn ja rõõm",
+    "duration": 32
+  },
+  "eg": {
+    "country": "Egypt",
+    "anthem": "Biladi, Biladi, Biladi",
+    "duration": 86,
+    "locale": "بلادي، بلادي، بلادي"
+  },
+  "er": {
+    "country": "Eritrea",
+    "anthem": "Ertra, Ertra, Ertra",
+    "duration": 119,
+    "locale": "ኤርትራ ኤርትራ ኤርትራ"
+  },
+  "es": {
+    "country": "Spain",
+    "anthem": "Marcha Real",
+    "duration": 62,
+    "locale": "Himno Nacional Español"
+  },
+  "fj": {
+    "country": "Fiji",
+    "anthem": "God Bless Fiji",
+    "duration": 86
+  },
+  "fm": {
+    "country": "Micronesia, Federated States of",
+    "anthem": "Patriots of Micronesia",
+    "duration": 122
+  },
+  "fr": {
+    "country": "France",
+    "anthem": "La Marseillaise",
+    "duration": 79
+  },
+  "ga": {
+    "country": "Gabon",
+    "anthem": "La Concorde",
+    "duration": 105
+  },
+  "gb": {
+    "country": "United Kingdom of Great Britain and Northern Ireland",
+    "anthem": "God Save the King",
+    "duration": 63
+  },
+  "ge": {
+    "country": "Georgia",
+    "anthem": "Tavisupleba",
+    "duration": 86,
+    "locale": "თავისუფლება"
+  },
+  "gh": {
+    "country": "Ghana",
+    "anthem": "God Bless Our Homeland Ghana",
+    "duration": 57
+  },
+  "gm": {
+    "country": "Gambia",
+    "anthem": "For The Gambia Our Homeland",
+    "duration": 80
+  },
+  "gn": {
+    "country": "Guinea",
+    "anthem": "Liberté",
+    "duration": 72
+  },
+  "gq": {
+    "country": "Equatorial Guinea",
+    "anthem": "Caminemos pisando las sendas",
+    "duration": 114
+  },
+  "gr": {
+    "country": "Greece",
+    "anthem": "Ymnos eis tin Eleftherian",
+    "duration": 45,
+    "locale": "Ύμνος εις την Ελευθερίαν"
+  },
+  "gy": {
+    "country": "Guyana",
+    "anthem": "Dear Land of Guyana, of Rivers and Plains",
+    "duration": 53
+  },
+  "hn": {
+    "country": "Honduras",
+    "anthem": "Himno Nacional de Honduras",
+    "duration": 167
+  },
+  "hr": {
+    "country": "Croatia",
+    "anthem": "Lijepa naša domovino",
+    "duration": 59
+  },
+  "ht": {
+    "country": "Haiti",
+    "anthem": "La Dessalinienne",
+    "duration": 37
+  },
+  "hu": {
+    "country": "Hungary",
+    "anthem": "Himnusz",
+    "duration": 101
+  },
+  "id": {
+    "country": "Indonesia",
+    "anthem": "Indonesia Raya",
+    "duration": 109
+  },
+  "ie": {
+    "country": "Ireland",
+    "anthem": "Amhrán na bhFiann",
+    "duration": 59
+  },
+  "il": {
+    "country": "Israel",
+    "anthem": "Hatikvah",
+    "duration": 74,
+    "locale": "הַתִּקְוָה"
+  },
+  "in": {
+    "country": "India",
+    "anthem": "Jana Gana Mana",
+    "duration": 64,
+    "locale": "जन गण मन"
+  },
+  "iq": {
+    "country": "Iraq",
+    "anthem": "Mawtini",
+    "duration": 105,
+    "locale": "مَوْطِنِيْ"
+  },
+  "is": {
+    "country": "Iceland",
+    "anthem": "Ó Guð vors lands",
+    "duration": 99
+  },
+  "it": {
+    "country": "Italy",
+    "anthem": "Il Canto degli Italiani",
+    "duration": 97
+  },
+  "jm": {
+    "country": "Jamaica",
+    "anthem": "Jamaica, Land We Love",
+    "duration": 81
+  },
+  "jo": {
+    "country": "Jordan",
+    "anthem": "As-salam al-malaki al-urduni",
+    "duration": 36,
+    "locale": "السلام الملكي الأردني"
+  },
+  "jp": {
+    "country": "Japan",
+    "anthem": "Kimigayo",
+    "duration": 59,
+    "locale": "君が代"
+  },
+  "ke": {
+    "country": "Kenya",
+    "anthem": "Ee Mungu Nguvu Yetu",
+    "duration": 112
+  },
+  "kg": {
+    "country": "Kyrgyzstan",
+    "anthem": "Kyrgyz Gimni",
+    "duration": 123,
+    "locale": "Кыргыз Республикасынын Мамлекеттик гимни"
+  },
+  "km": {
+    "country": "Comoros",
+    "anthem": "Udzima wa ya Masiwa",
+    "duration": 97
+  },
+  "kr": {
+    "country": "Korea, Republic of",
+    "anthem": "Aegukga",
+    "duration": 57,
+    "locale": "애국가"
+  },
+  "kw": {
+    "country": "Kuwait",
+    "anthem": "Al-Nasheed Al-Watani",
+    "duration": 35,
+    "locale": "النشيد الوطني الكويتي"
+  },
+  "kz": {
+    "country": "Kazakhstan",
+    "anthem": "Meniñ Qazaqstanym",
+    "duration": 99,
+    "locale": "Қазақстан Республикасының Мемлекеттік гимні"
+  },
+  "la": {
+    "country": "Lao People's Democratic Republic",
+    "anthem": "Pheng Xat Lao",
+    "duration": 50,
+    "locale": "ເພງຊາດລາວ"
+  },
+  "lb": {
+    "country": "Lebanon",
+    "anthem": "Kulluna lil-Watan",
+    "duration": 51,
+    "locale": "كلّنا للوطن"
+  },
+  "lc": {
+    "country": "Saint Lucia",
+    "anthem": "Sons and Daughters of Saint Lucia",
+    "duration": 43
+  },
+  "li": {
+    "country": "Liechtenstein",
+    "anthem": "Oben am jungen Rhein",
+    "duration": 84
+  },
+  "lr": {
+    "country": "Liberia",
+    "anthem": "All Hail, Liberia, Hail!",
+    "duration": 88
+  },
+  "ls": {
+    "country": "Lesotho",
+    "anthem": "Lesotho fatše la bo-ntat'a rona",
+    "duration": 43
+  },
+  "lu": {
+    "country": "Luxembourg",
+    "anthem": "Ons Heemecht",
+    "duration": 83
+  },
+  "ly": {
+    "country": "Libya",
+    "anthem": "Libya, Libya, Libya",
+    "duration": 68,
+    "locale": "ليبيا، ليبيا، ليبيا"
+  },
+  "ma": {
+    "country": "Morocco",
+    "anthem": "Hymne Chérifien",
+    "duration": 68,
+    "locale": "ٱلنَّشِيْد ٱلْوَطَنِي"
+  },
+  "mc": {
+    "country": "Monaco",
+    "anthem": "Hymne Monégasque",
+    "duration": 78,
+    "locale": "A Marcia de Muneghu"
+  },
+  "md": {
+    "country": "Moldova, Republic of",
+    "anthem": "Limba noastră",
+    "duration": 71
+  },
+  "me": {
+    "country": "Montenegro",
+    "anthem": "Oj, svijetla majska zoro",
+    "duration": 125,
+    "locale": "Ој, свијетла мајска зоро"
+  },
+  "mg": {
+    "country": "Madagascar",
+    "anthem": "Ry Tanindrazanay malala ô!",
+    "duration": 62
+  },
+  "mh": {
+    "country": "Marshall Islands",
+    "anthem": "Forever Marshall Islands",
+    "duration": 138,
+    "locale": "Indeeo M̧ajeļ"
+  },
+  "ml": {
+    "country": "Mali",
+    "anthem": "Le Mali",
+    "duration": 79
+  },
+  "mm": {
+    "country": "Myanmar",
+    "anthem": "Kaba Ma Kyei",
+    "duration": 39,
+    "locale": "ကမ္ဘာမကျေ"
+  },
+  "mr": {
+    "country": "Mauritania",
+    "anthem": "Bilada-l-Lah",
+    "duration": 87,
+    "locale": "النشيد الوطني الموريتاني"
+  },
+  "mt": {
+    "country": "Malta",
+    "anthem": "L-Innu Malti",
+    "duration": 49
+  },
+  "mv": {
+    "country": "Maldives",
+    "anthem": "Gaumee Salaam",
+    "duration": 68,
+    "locale": "ޤައުމީ ސަލާމް"
+  },
+  "mw": {
+    "country": "Malawi",
+    "anthem": "Mulungu dalitsa Malawi",
+    "duration": 52
+  },
+  "mx": {
+    "country": "Mexico",
+    "anthem": "Himno Nacional Mexicano",
+    "duration": 102
+  },
+  "my": {
+    "country": "Malaysia",
+    "anthem": "Negaraku",
+    "duration": 59
+  },
+  "ni": {
+    "country": "Nicaragua",
+    "anthem": "Salve a ti, Nicaragua",
+    "duration": 56
+  },
+  "nl": {
+    "country": "Netherlands, Kingdom of the",
+    "anthem": "Het Wilhelmus",
+    "duration": 65
+  },
+  "no": {
+    "country": "Norway",
+    "anthem": "Ja, vi elsker dette landet",
+    "duration": 62
+  },
+  "np": {
+    "country": "Nepal",
+    "anthem": "Sayaun Thunga Phulka",
+    "duration": 70,
+    "locale": "सयौँ थुँगा फूलका"
+  },
+  "nz": {
+    "country": "New Zealand",
+    "anthem": "God Defend New Zealand",
+    "duration": 63,
+    "locale": "God Defend New Zealand / Aotearoa"
+  },
+  "om": {
+    "country": "Oman",
+    "anthem": "Taḥīyah al-Sulṭān",
+    "duration": 114,
+    "locale": "تحية السلطان"
+  },
+  "pa": {
+    "country": "Panama",
+    "anthem": "Himno Istmeño",
+    "duration": 110
+  },
+  "pe": {
+    "country": "Peru",
+    "anthem": "Himno Nacional del Perú",
+    "duration": 189
+  },
+  "pg": {
+    "country": "Papua New Guinea",
+    "anthem": "O Arise, All You Sons",
+    "duration": 58
+  },
+  "ph": {
+    "country": "Philippines",
+    "anthem": "Lupang Hinirang",
+    "duration": 56
+  },
+  "pk": {
+    "country": "Pakistan",
+    "anthem": "Qaumi Taranah",
+    "duration": 83,
+    "locale": "قومی ترانہ"
+  },
+  "pl": {
+    "country": "Poland",
+    "anthem": "Mazurek Dąbrowskiego",
+    "duration": 43
+  },
+  "pt": {
+    "country": "Portugal",
+    "anthem": "A Portuguesa",
+    "duration": 70
+  },
+  "pw": {
+    "country": "Palau",
+    "anthem": "Belau rekid",
+    "duration": 52
+  },
+  "py": {
+    "country": "Paraguay",
+    "anthem": "Paraguayos, República o Muerte",
+    "duration": 191,
+    "locale": "Paraguayos, República o muerte!"
+  },
+  "qa": {
+    "country": "Qatar",
+    "anthem": "As-Salam al-Amiri",
+    "duration": 87,
+    "locale": "السلام الأميري"
+  },
+  "rs": {
+    "country": "Serbia",
+    "anthem": "Bože pravde",
+    "duration": 104,
+    "locale": "Боже правде"
+  },
+  "ru": {
+    "country": "Russian Federation",
+    "anthem": "Gosudarstvenny Gimn",
+    "duration": 81,
+    "locale": "Государственный гимн Российской Федерации"
+  },
+  "rw": {
+    "country": "Rwanda",
+    "anthem": "Rwanda nziza",
+    "duration": 139
+  },
+  "sa": {
+    "country": "Saudi Arabia",
+    "anthem": "Aash Al Maleek",
+    "duration": 38,
+    "locale": "النشيد الوطني السعودي"
+  },
+  "sc": {
+    "country": "Seychelles",
+    "anthem": "Koste Seselwa",
+    "duration": 67
+  },
+  "sd": {
+    "country": "Sudan",
+    "anthem": "Nahnu Jund Allah Jund Al-Watan",
+    "duration": 46,
+    "locale": "نحن جند اللّٰه، جند الوطن"
+  },
+  "se": {
+    "country": "Sweden",
+    "anthem": "Du gamla, du fria",
+    "duration": 88
+  },
+  "sg": {
+    "country": "Singapore",
+    "anthem": "Majulah Singapura",
+    "duration": 79
+  },
+  "si": {
+    "country": "Slovenia",
+    "anthem": "Zdravljica",
+    "duration": 56
+  },
+  "sn": {
+    "country": "Senegal",
+    "anthem": "Le Lion rouge",
+    "duration": 56,
+    "locale": "Pincez Tous vos Koras, Frappez les Balafons"
+  },
+  "so": {
+    "country": "Somalia",
+    "anthem": "Qolobaa Calankeed",
+    "duration": 66
+  },
+  "sr": {
+    "country": "Suriname",
+    "anthem": "God zij met ons Suriname",
+    "duration": 54
+  },
+  "ss": {
+    "country": "South Sudan",
+    "anthem": "South Sudan, Oyee!",
+    "duration": 77
+  },
+  "sv": {
+    "country": "El Salvador",
+    "anthem": "Himno Nacional de El Salvador",
+    "duration": 88
+  },
+  "sy": {
+    "country": "Syrian Arab Republic",
+    "anthem": "Humat ad-Diyar",
+    "duration": 66,
+    "locale": "حُمَاةَ الدِّيَارِ"
+  },
+  "sz": {
+    "country": "Eswatini",
+    "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
+    "duration": 68
+  },
+  "td": {
+    "country": "Chad",
+    "anthem": "La Tchadienne",
+    "duration": 61
+  },
+  "th": {
+    "country": "Thailand",
+    "anthem": "Phleng Chat Thai",
+    "duration": 44,
+    "locale": "เพลงชาติไทย"
+  },
+  "tj": {
+    "country": "Tajikistan",
+    "anthem": "Surudi Millī",
+    "duration": 110,
+    "locale": "Суруди Миллӣ"
+  },
+  "tl": {
+    "country": "Timor-Leste",
+    "anthem": "Pátria",
+    "duration": 129
+  },
+  "tm": {
+    "country": "Turkmenistan",
+    "anthem": "State Anthem of Turkmenistan",
+    "duration": 120,
+    "locale": "Türkmenistanyň Döwlet senasy"
+  },
+  "tr": {
+    "country": "Türkiye",
+    "anthem": "İstiklâl Marşı",
+    "duration": 76,
+    "locale": "İstiklal Marşı"
+  },
+  "tt": {
+    "country": "Trinidad and Tobago",
+    "anthem": "Forged from the Love of Liberty",
+    "duration": 75
+  },
+  "tz": {
+    "country": "Tanzania, United Republic of",
+    "anthem": "Mungu ibariki Afrika",
+    "duration": 52
+  },
+  "ua": {
+    "country": "Ukraine",
+    "anthem": "Derzhavnyi Himn Ukrainy",
+    "duration": 104,
+    "locale": "Державний гімн України"
+  },
+  "ug": {
+    "country": "Uganda",
+    "anthem": "Oh Uganda, Land of Beauty",
+    "duration": 44
+  },
+  "us": {
+    "country": "United States of America",
+    "anthem": "The Star-Spangled Banner",
+    "duration": 78
+  },
+  "uy": {
+    "country": "Uruguay",
+    "anthem": "Himno Nacional del Uruguay",
+    "duration": 270,
+    "locale": "Himno Nacional"
+  },
+  "vc": {
+    "country": "Saint Vincent and the Grenadines",
+    "anthem": "Saint Vincent, Land So Beautiful",
+    "duration": 51
+  },
+  "ve": {
+    "country": "Venezuela, Bolivarian Republic of",
+    "anthem": "Gloria al Bravo Pueblo",
+    "duration": 91
+  },
+  "xk": {
+    "country": "Kosovo",
+    "anthem": "Europe",
+    "duration": 57,
+    "locale": "Himni i Republikës së Kosovës"
+  },
+  "za": {
+    "country": "South Africa",
+    "anthem": "Nkosi Sikelel iAfrika",
+    "duration": 123,
+    "locale": "National Anthem of South Africa"
+  },
+  "ad": {
+    "country": "Andorra",
+    "anthem": "El Gran Carlemany",
+    "duration": 66
+  },
+  "bi": {
+    "country": "Burundi",
+    "anthem": "Burundi bwacu",
+    "duration": 129
+  },
+  "cd": {
+    "country": "DR Congo",
+    "anthem": "Debout Congolais",
+    "duration": 89
+  },
+  "cf": {
+    "country": "Central African Republic",
+    "anthem": "La Renaissance",
+    "duration": 69
+  },
+  "ci": {
+    "country": "Ivory Coast",
+    "anthem": "L'Abidjanaise",
+    "duration": 69
+  },
+  "cm": {
+    "country": "Cameroon",
+    "anthem": "Chant de Ralliement",
+    "duration": 58
+  },
+  "cy": {
+    "country": "Cyprus",
+    "anthem": "Hymn to Liberty",
+    "duration": 45,
+    "locale": "Ὕμνος εἰς τὴν Ἐλευθερίαν"
+  },
+  "do": {
+    "country": "Dominican Republic",
+    "anthem": "Quisqueyanos valientes",
+    "duration": 97
+  },
+  "et": {
+    "country": "Ethiopia",
+    "anthem": "March Forward, Dear Mother Ethiopia",
+    "duration": 84,
+    "locale": "ወደፊት ገሥግሺ ፣ ውድ እናት ኢትዮጵያ"
+  },
+  "fi": {
+    "country": "Finland",
+    "anthem": "Maamme",
+    "duration": 46
+  },
+  "gd": {
+    "country": "Grenada",
+    "anthem": "Hail Grenada",
+    "duration": 77
+  },
+  "gw": {
+    "country": "Guinea-Bissau",
+    "anthem": "Esta É a Nossa Pátria Amada",
+    "duration": 61
+  },
+  "ir": {
+    "country": "Iran",
+    "anthem": "Sorud-e Melli-ye Jomhuri-ye Eslâmi-ye Irân",
+    "duration": 56,
+    "locale": "سرود ملی جمهوری اسلامی ایران"
+  },
+  "kh": {
+    "country": "Cambodia",
+    "anthem": "Nokoreach",
+    "duration": 90,
+    "locale": "នគររាជ"
+  },
+  "kn": {
+    "country": "Saint Kitts and Nevis",
+    "anthem": "O Land of Beauty!",
+    "duration": 63
+  },
+  "kp": {
+    "country": "North Korea",
+    "anthem": "Patriotic Song",
+    "duration": 101,
+    "locale": "애국가"
+  },
+  "lt": {
+    "country": "Lithuania",
+    "anthem": "Tautiška giesmė",
+    "duration": 107
+  },
+  "lv": {
+    "country": "Latvia",
+    "anthem": "Dievs, svētī Latviju",
+    "duration": 105
+  },
+  "mk": {
+    "country": "North Macedonia",
+    "anthem": "Denes nad Makedonija",
+    "duration": 50,
+    "locale": "Денес над Македонија"
+  },
+  "mn": {
+    "country": "Mongolia",
+    "anthem": "Mongol ulsiin töriin duulal",
+    "duration": 100,
+    "locale": "Монгол Улсын Төрийн дуулал"
+  },
+  "mz": {
+    "country": "Mozambique",
+    "anthem": "Pátria Amada",
+    "duration": 61
+  },
+  "na": {
+    "country": "Namibia",
+    "anthem": "Namibia, Land of the Brave",
+    "duration": 89
+  },
+  "ne": {
+    "country": "Niger",
+    "anthem": "L'Honneur de la Patrie",
+    "duration": 108
+  },
+  "ng": {
+    "country": "Nigeria",
+    "anthem": "Nigeria, We Hail Thee",
+    "duration": 109
+  },
+  "ps": {
+    "country": "Palestine",
+    "anthem": "Fidāʾiyy",
+    "duration": 58,
+    "locale": "فدائي"
+  },
+  "ro": {
+    "country": "Romania",
+    "anthem": "Deșteaptă-te, române!",
+    "duration": 139
+  },
+  "sb": {
+    "country": "Solomon Islands",
+    "anthem": "God Save Our Solomon Islands",
+    "duration": 91
+  },
+  "sl": {
+    "country": "Sierra Leone",
+    "anthem": "High We Exalt Thee, Realm of the Free",
+    "duration": 46
+  },
+  "st": {
+    "country": "Sao Tome and Principe",
+    "anthem": "Independência Total",
+    "duration": 125
+  },
+  "tg": {
+    "country": "Togo",
+    "anthem": "Terre de nos aïeux",
+    "duration": 52
+  },
+  "tn": {
+    "country": "Tunisia",
+    "anthem": "Humat al-Hima",
+    "duration": 52,
+    "locale": "حماة الحمى"
+  },
+  "to": {
+    "country": "Tonga",
+    "anthem": "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga",
+    "duration": 49
+  },
+  "tw": {
+    "country": "Taiwan",
+    "anthem": "Zhōnghuá Mínguó guógē",
+    "duration": 81,
+    "locale": "中華民國國歌"
+  },
+  "uz": {
+    "country": "Uzbekistan",
+    "anthem": "O‘zbekiston Respublikasining Davlat madhiyasi",
+    "duration": 146
+  },
+  "va": {
+    "country": "Vatican City",
+    "anthem": "Inno Pontificio",
+    "duration": 193
+  },
+  "vn": {
+    "country": "Vietnam",
+    "anthem": "Tiến quân ca",
+    "duration": 62
+  },
+  "ws": {
+    "country": "Samoa",
+    "anthem": "O Le Fuʻa o le Saʻolotoga o Sāmoa",
+    "duration": 63
+  },
+  "ye": {
+    "country": "Yemen",
+    "anthem": "al-Jumhūriyyah al-Muttaḥidah",
+    "duration": 49,
+    "locale": "الجمهورية المتحدة"
+  },
+  "zm": {
+    "country": "Zambia",
+    "anthem": "Stand and Sing of Zambia, Proud and Free",
+    "duration": 113
+  },
+  "zw": {
+    "country": "Zimbabwe",
+    "anthem": "Blessed Be the Land of Zimbabwe",
+    "duration": 50
+  }
+}

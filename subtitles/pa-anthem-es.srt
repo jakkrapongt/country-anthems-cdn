@@ -1,0 +1,83 @@
+1
+00:00:00,001 --> 00:00:12,000
+HIMNO NACIONAL DE PANAMÁ
+
+2
+00:00:12,000 --> 00:00:16,750
+Alcanzamos por fin la victoria
+
+3
+00:00:16,750 --> 00:00:21,500
+En el campo feliz de la unión;
+
+4
+00:00:21,500 --> 00:00:26,000
+Con ardientes fulgores de gloria
+
+5
+00:00:26,000 --> 00:00:31,000
+Se ilumina la nueva nación.
+
+6
+00:00:31,000 --> 00:00:35,750
+Con ardientes fulgores de gloria
+
+7
+00:00:35,750 --> 00:00:41,000
+¡Se ilumina la nueva nación!
+
+8
+00:00:41,000 --> 00:00:45,500
+Es preciso cubrir con un velo
+
+9
+00:00:45,500 --> 00:00:50,250
+Del pasado el calvario y la cruz;
+
+10
+00:00:50,250 --> 00:00:54,750
+Y que adorne el azul de tu cielo
+
+11
+00:00:54,750 --> 00:00:59,500
+De concordia la espléndida luz.
+
+12
+00:00:59,500 --> 00:01:04,500
+El progreso acaricia tus lares.
+
+13
+00:01:04,500 --> 00:01:09,250
+Al compás de sublime canción,
+
+14
+00:01:09,250 --> 00:01:14,000
+Ves rugir a tus pies ambos mares
+
+15
+00:01:14,000 --> 00:01:18,750
+Que dan rumbo a tu noble misión.
+
+16
+00:01:18,750 --> 00:01:23,250
+Alcanzamos por fin la victoria
+
+17
+00:01:23,250 --> 00:01:28,250
+En el campo feliz de la unión;
+
+18
+00:01:28,250 --> 00:01:33,250
+Con ardientes fulgores de gloria
+
+19
+00:01:33,250 --> 00:01:38,000
+Se ilumina la nueva nación.
+
+20
+00:01:38,000 --> 00:01:43,000
+Con ardientes fulgores de gloria
+
+21
+00:01:43,000 --> 00:01:49,000
+¡Se ilumina la nueva nación!

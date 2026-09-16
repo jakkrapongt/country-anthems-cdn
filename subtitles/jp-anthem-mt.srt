@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:09,000
+Mejju renju tiegħek
+
+2
+00:00:09,999 --> 00:00:20,000
+Kompli għal elf, tmien elef ġenerazzjoni
+
+3
+00:00:20,000 --> 00:00:30,000
+Sakemm il-ċagħaq
+
+4
+00:00:30,999 --> 00:00:40,000
+Jikbru fis-blat
+
+5
+00:00:41,000 --> 00:00:58,000
+Lush bil-ħażiż

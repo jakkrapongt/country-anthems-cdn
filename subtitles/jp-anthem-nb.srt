@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:09,000
+Kan regjere deg
+
+2
+00:00:09,999 --> 00:00:20,000
+Fortsett i tusen, åtte tusen generasjoner
+
+3
+00:00:20,000 --> 00:00:30,000
+Til pebbles
+
+4
+00:00:30,999 --> 00:00:40,000
+Vokse inn i steinblokker
+
+5
+00:00:41,000 --> 00:00:58,000
+Frodig med mos

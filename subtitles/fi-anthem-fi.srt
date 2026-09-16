@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Oi maamme, Suomi, synnyinmaa,
+
+2
+00:00:05,000 --> 00:00:09,000
+soi, sana kultainen!
+
+3
+00:00:09,000 --> 00:00:14,000
+Ei laaksoa, ei kukkulaa,
+
+4
+00:00:14,000 --> 00:00:19,000
+ei vettä, rantaa rakkaampaa
+
+5
+00:00:19,000 --> 00:00:23,000
+kuin kotimaa tää pohjoinen,
+
+6
+00:00:23,000 --> 00:00:27,000
+maa kallis isien.
+
+7
+00:00:27,000 --> 00:00:32,000
+Ei laaksoa, ei kukkulaa,
+
+8
+00:00:32,000 --> 00:00:37,000
+ei vettä, rantaa rakkaampaa
+
+9
+00:00:37,000 --> 00:00:40,000
+kuin kotimaa tää pohjoinen,
+
+10
+00:00:40,000 --> 00:00:45,000
+maa kallis isien.
